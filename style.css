@@ -1,0 +1,180 @@
+body{
+ width: auto;
+
+}
+#header{
+	    font-family: Purisa;
+		color: orange;
+		text-align: left;
+		font-size: 200%;
+}
+#search{
+	height: 50px;
+	
+}
+#button{
+	 width: 300px;
+	
+	float: right;
+	padding-right:50px;
+	height: 500px;
+	
+}
+#prgph{
+	float: left;
+	width: 800px;
+	height: 500px;	
+	font-size:150%;	
+}
+#instruct{
+	
+	font-family: Purisa;	
+	font-size: 300%;
+	position: relative;
+	text-align: center;
+	height: 100px;
+	padding: 10px 30px 60px 30px;
+	color: red;
+	
+}
+#sinup{
+	background-image: url('Couple.jpg');
+	height: 600px;
+	
+    
+}
+#bt1 {
+    background-color: blue;    
+    border-radius:20px;       
+    font-size: 20px;    
+    border:ridge;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    
+    top: 300px;  
+   
+}
+
+#info {
+	height: 84px;	
+	text-align: center;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+ul#horizontal-list li {
+	display: inline;
+}
+
+a { 
+    padding-right: 20px;
+    font-size: 150%
+}
+#select img{
+
+	    height: 290px;
+	    width: 290px;
+	    border-style: inset;
+	    border-radius:10px;	
+	     
+}
+#select img:hover{
+	    height: 300px;
+	    width:  300px;
+	    border-style: inset;
+	    border-radius:10px;		     
+}
+#select{
+	
+	height: 1000px;
+}
+#r1c1{
+	position: relative;
+	 width: 290px;	
+	float: left;	
+	height: 400px;
+	
+}
+#r1c2{
+	position: relative;
+	float: right;
+	width: 290px;
+	height: 400px;
+}
+#r1c3{
+	position: relative;
+	width: 290px;
+	height: 400px;
+	margin:0 auto;	
+}
+#r2c1{
+	 width: 290px;	
+	float: left;	
+	height: 400px;
+	
+}
+#r2c2{
+	float: right;
+	width: 290px;
+	height: 400px;
+}
+#r2c3{
+	position: relative;
+	width: 290px;
+	height: 400px;
+	margin:0 auto;	
+
+}
+#rings{
+	color: blue;
+	font-family: URW Chancery L;
+	text-align: center;
+	font-size: 150%;
+}
+html { 
+	  background: url(10.jpg) no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+#search{
+	color: blue;
+	font-size: 120%;
+}
+#packages{
+	font-size: 120%;
+
+}
+#footer{
+
+height: 50px;
+font-size: 120%;
+color: rgb(1000,1,1);
+background-color: aqua;
+
+}
+#r{
+   width: 500px;
+   float: right;
+   position: relative;
+   top: 15px;
+
+}
+#l{
+	position: relative;
+	width: 500px;
+	float: left;
+
+}
+#r1{
+	clear: both;
+	height: 550px;
+}
+#r2{
+	clear: both;
+}
